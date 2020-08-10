@@ -75,13 +75,10 @@ $ expo start
 # O mobile inciará na porta:19000 - acesse <expo:<ip local>:19000>
 ```
 
- ## 🛠 Tecnologias
+ # 🛠 Tecnologias usadas no projeto:
  
-
-Ferramentas e Tecnologias usadas na construção do Projeto:
-
 ## Server  
-([![](https://github.com/gibify/Proffy/blob/master/Web/public/node%201.png)](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+[![](https://github.com/gibify/Proffy/blob/master/Web/public/node%201.png)](https://nodejs.org/en/)   [![]()](https://www.typescriptlang.org/)
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -93,7 +90,8 @@ Ferramentas e Tecnologias usadas na construção do Projeto:
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Server/package.json)
 
 
-#### **Website**  ([ReactJS](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+## Website 
+[![]()](https://reactjs.org/)    [![]()](https://www.typescriptlang.org/)
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
@@ -102,7 +100,7 @@ Ferramentas e Tecnologias usadas na construção do Projeto:
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Web/package.json)
 
 
-#### **Mobile**  ([](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Mobile**  ([](https://reactjs.org/)  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
