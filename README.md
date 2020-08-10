@@ -23,7 +23,9 @@
  # Requisitos:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) | [Node](https://nodejs.org/en/) | [VSCode](https://code.visualstudio.com/)
+* [Git](https://git-scm.com) 
+* [Node](https://nodejs.org/en/) 
+* [VSCode](https://code.visualstudio.com/)
 
 
   #### Clonando repositório:
