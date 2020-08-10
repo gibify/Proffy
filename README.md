@@ -99,7 +99,7 @@ $ expo start
 
 
 ## Mobile
-[![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactnative.dev/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/))
+[![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactnative.dev/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
 
 -   **[Expo](https://expo.io/)**
 -   **[Axios](https://www.npmjs.com/package/axios)**
