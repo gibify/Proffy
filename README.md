@@ -88,7 +88,7 @@ $ expo start
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Server/package.json)
 
 
-## Website 
+## Web
 [![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactjs.org/)    [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
