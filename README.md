@@ -9,7 +9,7 @@
   
   Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
 
- ## Organização dos Arquivos:
+ ### Arquivos:
 * [server](https://github.com/gibify/Proffy/tree/master/Server)
 * [web](https://github.com/gibify/Proffy/tree/master/Web)
 * [mobile](https://github.com/gibify/Proffy/tree/master/Mobile)
@@ -20,13 +20,13 @@
  * [Mobile](https://www.figma.com/file/G7me1ngqnxFHnI3BBs0Hf0/Proffy_Mobile)
  
  
- ### Pré-requisitos
+ ### Pré-requisitos:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com) | [Node](https://nodejs.org/en/) | [VSCode](https://code.visualstudio.com/)
 
 
-  ### Clonando repositório
+  ### Clonando repositório:
 
 ```bash
 # clone o repositório na sua máquina
