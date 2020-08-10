@@ -3,7 +3,7 @@
 </div>
    
    
-  # 💻 Sobre:
+  # Sobre:
   
   📖 Proffy - é uma aplicação, onde será possível alunos encontrarem professores, horários que estarão disponíveis, e matérias que lecionam. Os Professores poderão se    cadastrarem na plataforma, preenchendo os seus dados, e quais horários estarão disponíveis, e matérias que lecionam.
   
