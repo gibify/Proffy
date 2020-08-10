@@ -116,5 +116,6 @@ $ expo start
 
 ### Autor
 
-[Evandro Gibicoski](https://github.com/gibify)
+![](https://github.com/gibify/Proffy/blob/master/Web/20200730_094509%5B1%5D%201.png)
+## [Evandro Gibicoski](https://github.com/gibify)
 
