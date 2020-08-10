@@ -93,14 +93,16 @@ $ expo start
 [![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactjs.org/)    [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+-   **[Axios](https://www.npmjs.com/package/axios)**
 
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Web/package.json)
 
 
 ## Mobile
-([https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png](https://reactnative.dev/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/))
+[![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactnative.dev/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/))
 
 -   **[Expo](https://expo.io/)**
+-   **[Axios](https://www.npmjs.com/package/axios)**
 
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Mobile/package.json)
 
