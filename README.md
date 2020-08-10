@@ -59,7 +59,7 @@ $ npm run start
 # O web inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-#### 🖥️ Rodando a aplicação Mobile (App) 
+#### 📱 Rodando a aplicação Mobile (App) 
 
 
 ```bash
@@ -90,7 +90,7 @@ $ expo start
 
 
 ## Website 
-[![]()](https://reactjs.org/)    [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
+[![](https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png)](https://reactjs.org/)    [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
@@ -98,10 +98,9 @@ $ expo start
 
 
 ## Mobile
-([](https://reactjs.org/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/))
+([https://github.com/gibify/Proffy/blob/master/Web/public/reactjs%201.png](https://reactnative.dev/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/))
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Expo]()**
+-   **[Expo](https://expo.io/)**
 
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Mobile/package.json)
 
