@@ -16,8 +16,8 @@
 
  ### Layout:
  
- [Web](https://www.figma.com/file/SqvAaJzP3inBSdH4nr6fxb/Proffy_Web)
- [Mobile](https://www.figma.com/file/G7me1ngqnxFHnI3BBs0Hf0/Proffy_Mobile)
+ * [Web](https://www.figma.com/file/SqvAaJzP3inBSdH4nr6fxb/Proffy_Web)
+ * [Mobile](https://www.figma.com/file/G7me1ngqnxFHnI3BBs0Hf0/Proffy_Mobile)
  
  
  ### Pré-requisitos
