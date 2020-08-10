@@ -3,7 +3,7 @@
 </div>
    
    
-  ## 💻 Sobre:
+  # 💻 Sobre:
   
   📖 Proffy - é uma aplicação, onde será possível alunos encontrarem professores, horários que estarão disponíveis, e matérias que lecionam. Os Professores poderão se    cadastrarem na plataforma, preenchendo os seus dados, e quais horários estarão disponíveis, e matérias que lecionam.
   
@@ -20,13 +20,13 @@
  * [Mobile](https://www.figma.com/file/G7me1ngqnxFHnI3BBs0Hf0/Proffy_Mobile)
  
  
- ### Pré-requisitos:
+ # Requisitos:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com) | [Node](https://nodejs.org/en/) | [VSCode](https://code.visualstudio.com/)
 
 
-  ### Clonando repositório:
+  #### Clonando repositório:
 
 ```bash
 # clone o repositório na sua máquina
