@@ -28,14 +28,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * [VSCode](https://code.visualstudio.com/)
 
 
-  #### Clonando repositório:
+ #### Clonando repositório:
 
 ```bash
 # clone o repositório na sua máquina
 $ git clone https://github.com/gibify/Proffy.git
 ```
 
-  #### ⚙️ Rodando o Servidor (Backend) 
+ #### ⚙️ Rodando o Servidor (Backend) 
 
 ```bash
 # Acesse a pasta server
