@@ -9,12 +9,12 @@
   
   Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
 
-## Organização dos Arquivos:
+ ## Organização dos Arquivos:
 * [server](https://github.com/gibify/Proffy/tree/master/Server)
 * [web](https://github.com/gibify/Proffy/tree/master/Web)
 * [mobile](https://github.com/gibify/Proffy/tree/master/Mobile)
 
-  ### Pré-requisitos
+ ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [![node]()](https://nodejs.org/en/). 
@@ -80,7 +80,8 @@ $ expo start
 
 Ferramentas e Tecnologias usadas na construção do Projeto:
 
-#### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+## Server  
+([![](https://github.com/gibify/Proffy/blob/master/Web/public/node%201.png)](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
