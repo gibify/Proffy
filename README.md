@@ -10,9 +10,9 @@
   Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
 
 ## Organização dos Arquivos:
-* server (Backend do App);
-* web (Frontend do App);
-* mobile (Mobile do App);
+* [server](https://github.com/gibify/Proffy/tree/master/Server)
+* [web](https://github.com/gibify/Proffy/tree/master/Web)
+* [mobile](https://github.com/gibify/Proffy/tree/master/Mobile)
 
   ### Pré-requisitos
 
@@ -80,14 +80,6 @@ $ expo start
 
 Ferramentas e Tecnologias usadas na construção do Projeto:
 
-#### **Website**  ([ReactJS](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
-
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-
-
-
-> Acesse o arquivo  [package.json](https://github.com/gibifyOfficial/NLW-02/blob/master/web/package.json)
-
 #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Express](https://expressjs.com/)**
@@ -97,7 +89,26 @@ Ferramentas e Tecnologias usadas na construção do Projeto:
 -   **[ts-node-dev](https://github.com/TypeStrong/ts-node)**
 
 
-> Acesse o arquivo  [package.json](https://github.com/gibifyOfficial/NLW-02/blob/master/server/package.json)
+> Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Server/package.json)
+
+
+#### **Website**  ([ReactJS](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+
+
+
+> Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Web/package.json)
+
+
+#### **Mobile**  ([](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+
+
+
+> Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Mobile/package.json)
+
 
 ### Autor
 
