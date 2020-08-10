@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gibifyOfficial/NLW-02/blob/master/web/public/template.png"  />
+  <img src="https://github.com/gibify/Proffy/blob/master/Web/public/Home%20(1).png"  />
 </div>
    
    
@@ -9,15 +9,10 @@
   
   Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
 
-### Features:
-- [x] Cadastro dos Professores
-- [x] Listagens das conexões que já foram feitas.
-- [x] Listagens dos professsores disponíveis, por horários, dias da semana e matéria.
-
-
 ## Organização dos Arquivos:
 * server (Backend do App);
 * web (Frontend do App);
+* mobile (Mobile do App);
 
   ### Pré-requisitos
 
@@ -31,8 +26,8 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 # clone o repositório na sua máquina
 $ git clone https://github.com/gibify/Proffy.git
-
 ```
+
   #### ⚙️ Rodando o Servidor (Backend) 
 
 ```bash
@@ -46,15 +41,12 @@ $ npm install
 $ npm run dev:server / yarn dev:server
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
-
 ```
 
 
 #### 🖥️ Rodando a aplicação Web (Frontend) 
 
-
 ```bash
-
 # Acesse a pasta web
 $ cd web
 
@@ -65,15 +57,13 @@ $ npm install
 $ npm run start 
 
 # O web inciará na porta:3000 - acesse <http://localhost:3000>
-
 ```
 
 #### 🖥️ Rodando a aplicação Mobile (App) 
 
 
 ```bash
-
-# Acesse a pasta web
+# Acesse a pasta mobile
 $ cd mobile
 
 # Instale as dependências
@@ -82,8 +72,7 @@ $ expo install
 # Execute a aplicação em modo de desenvolvimento
 $ expo start 
 
-# O web inciará na porta:19000 - acesse <expo:<ip local>:19000>
-
+# O mobile inciará na porta:19000 - acesse <expo:<ip local>:19000>
 ```
 
  ## 🛠 Tecnologias
