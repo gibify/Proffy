@@ -14,6 +14,12 @@
 * [web](https://github.com/gibify/Proffy/tree/master/Web)
 * [mobile](https://github.com/gibify/Proffy/tree/master/Mobile)
 
+ ### Layout:
+ 
+ [Web](https://www.figma.com/file/SqvAaJzP3inBSdH4nr6fxb/Proffy_Web)
+ [Mobile](https://www.figma.com/file/G7me1ngqnxFHnI3BBs0Hf0/Proffy_Mobile)
+ 
+ 
  ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
