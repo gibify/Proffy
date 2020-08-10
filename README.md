@@ -78,7 +78,7 @@ $ expo start
  # 🛠 Tecnologias usadas no projeto:
  
 ## Server  
-[![](https://github.com/gibify/Proffy/blob/master/Web/public/node%201.png)](https://nodejs.org/en/)   [![]()](https://www.typescriptlang.org/)
+[![](https://github.com/gibify/Proffy/blob/master/Web/public/node%201.png)](https://nodejs.org/en/)   [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -86,25 +86,22 @@ $ expo start
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node-dev](https://github.com/TypeStrong/ts-node)**
 
-
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Server/package.json)
 
 
 ## Website 
-[![]()](https://reactjs.org/)    [![]()](https://www.typescriptlang.org/)
+[![]()](https://reactjs.org/)    [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/)
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-
-
 
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Web/package.json)
 
 
-#### **Mobile**  ([](https://reactjs.org/)  [TypeScript](https://www.typescriptlang.org/))
+## Mobile
+([](https://reactjs.org/)  [![](https://github.com/gibify/Proffy/blob/master/Web/public/typescript%201.png)](https://www.typescriptlang.org/))
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-
-
+-   **[Expo]()**
 
 > Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Mobile/package.json)
 
